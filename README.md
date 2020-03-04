@@ -2,4 +2,4 @@
 initialising my first repo...
 
 
-Trying out commiting on github...signing in.
+Trying out commiting on github...signing in..
